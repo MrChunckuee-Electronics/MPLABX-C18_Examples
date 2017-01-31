@@ -8,3 +8,4 @@ Programación de microcontroladores PICs en C, usando MPLAB x y C18. Son algunas
 - C18_008: Encender y apadar un LED con pulsador
 - C18_009: Libreria para interrupciones
 - C18_010: TMR0 como temporizador
+- C18_011: Comunicación serie (UART)

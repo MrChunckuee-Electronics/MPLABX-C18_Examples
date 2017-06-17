@@ -1,7 +1,8 @@
 # MPLABX & C18 Examples
 ***
-Programación de microcontroladores PICs en C, usando MPLAB x y C18. Son algunas parcticas que se han realizado para los microcontroladores PICs en C, si deseas saber mas a detalle de cada uno de los codigos aqui mostrados te invito a visitar [E&R by MrChuckuee] (http://mrchunckuee.blogspot.com/p/mplabx-y-c18.html)
+Programación de microcontroladores PICs en C, usando MPLAB x y C18. Son algunas parcticas que se han realizado para los microcontroladores PICs en C, si deseas saber mas a detalle de cada uno de los codigos aqui mostrados te invito a visitar [E&R by MrChuckuee](http://mrchunckuee.blogspot.com/p/mplabx-y-c18.html)
 ***
+
 **Listado de material disponible:**
 - C18_006: LED Intermitente
 - C18_007: LEDs Secuenciales
@@ -9,3 +10,12 @@ Programación de microcontroladores PICs en C, usando MPLAB x y C18. Son algunas
 - C18_009: Libreria para interrupciones
 - C18_010: TMR0 como temporizador
 - C18_011: Comunicación serie (UART)
+
+***
+Puedes seguirme en:
+- [Blogspot](http://mrchunckuee.blogspot.com)
+- [Facebook](https://www.facebook.com/ElectronicayRobotica)
+- [Twitter](https://twitter.com/MrChunckuee)
+- [GitHub](https://github.com/MrChunckuee)
+- [YouTube](https://www.youtube.com/user/mrchunckueepsr)
+- [Google+](https://plus.google.com/u/0/+PedroSanchez-MrChunckuee)
